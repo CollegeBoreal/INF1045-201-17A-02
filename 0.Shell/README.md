@@ -1,9 +1,3 @@
-# Devoir
-
-* Verifier que vous avez bien repertorie toutes les balises dans votre fichier 'Formattage'
-* Ecrire un programme en Shell Script pour verifier votre fichier
-* Pour le Jeudi 6 Octobre 16
-
 # Unix Shell
 
 ## Base
