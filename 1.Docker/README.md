@@ -23,4 +23,4 @@ $ docker run hello-world
 
 * ps: afficher les taches des containers
 
-* images
+* images: cf images ISO
