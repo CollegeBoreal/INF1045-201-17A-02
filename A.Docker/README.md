@@ -6,7 +6,7 @@ https://www.docker.com/community-edition
 
 
 
-## Virtualisation
+## Virtualisation (Emulation de l'OS)
 ![alt tag](./Virtualization.png)
 
 
