@@ -14,4 +14,4 @@ $ docker run hello-world
 
 # Services
 
-![alt tag](./docker-services.png)
+![alt tag](./docker-service.png)
