@@ -11,3 +11,7 @@ $ docker run --name some-mysql -e MYSQL_ROOT_PASSWORD=password -p 3306:3306 -d m
 ```
 $ docker exec -it some-mysql bash
 ```
+
+* Download Editeur MySQL
+
+https://www.mysql.com/fr/products/workbench/
