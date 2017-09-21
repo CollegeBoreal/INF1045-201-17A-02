@@ -16,7 +16,10 @@ Dans le container:
 
 . lancer le CLI (Command Level Interface) de MySQL
 
+```
 # mysql -u root -p 
+```
+
 . Dans le CLI
 
 .. créer une base de données
