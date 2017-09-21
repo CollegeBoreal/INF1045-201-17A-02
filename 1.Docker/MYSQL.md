@@ -36,7 +36,11 @@ Version Longue
 ```
 mysql> CREATE USER 'etudiants'@'localhost' IDENTIFIED BY 'etudiants_1';
 mysql> GRANT ALL ON etudiants.* TO 'etudiants'@'localhost';
+```
+
 Version Simplifiee incluant tous les hotes
+
+```
 mysql> GRANT ALL ON etudiants.* TO 'etudiants'@'%' IDENTIFIED BY 'etudiants_1';
 ```
 
