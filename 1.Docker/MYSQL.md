@@ -24,7 +24,11 @@ Dans le container:
 
 .. créer une base de données
 
+
+```
 mysql> CREATE DATABASE etudiants;
+```
+
 .. créer les utilisateurs
 
 Version Longue
