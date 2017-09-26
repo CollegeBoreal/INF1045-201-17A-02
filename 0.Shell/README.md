@@ -17,8 +17,10 @@ Unix - Basic Utilities
 Unix - Pipes & Filters
 Unix - Processes
 Unix - Communication
-Unix - The vi Editor [Cheat Sheet](./VI.md)
+Unix - The vi Editor 
 ```
+
+[Cheat Sheet](./VI.md)
 
 ## Programmation
 
