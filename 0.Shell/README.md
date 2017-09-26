@@ -4,6 +4,17 @@
 
 # Unix Shell
 
+
+## type de Shell
+
+* sh - Shell
+
+* ksh - Korn Shell
+
+* bsh - Bourne Shell
+
+* bash - Extension de bsh
+
 ## Base
 
 ```
