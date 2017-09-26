@@ -17,7 +17,7 @@ Unix - Basic Utilities
 Unix - Pipes & Filters
 Unix - Processes
 Unix - Communication
-Unix - The vi Editor [CheatSheet](https://www.smashingmagazine.com/wp-content/uploads/2010/05/VI-Help-Sheet-01-large2.jpg)
+Unix - The vi Editor ![alt tag](https://www.smashingmagazine.com/wp-content/uploads/2010/05/VI-Help-Sheet-01-large2.jpg)
 ```
 
 ## Programmation
