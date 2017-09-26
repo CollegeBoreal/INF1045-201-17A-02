@@ -20,7 +20,7 @@ Unix - Communication
 Unix - The vi Editor 
 ```
 
-[Cheat Sheet](./VI.md)
+[VI CheatSheet](./VI.md)
 
 ## Programmation
 
