@@ -2,17 +2,14 @@
 Administration de serveurs
 
 ## Resultats d'Apprentissage du Cours
-```
-L'edutiant saura administrer une plateforme Unix
 
-
-
-```
 
 |  | Resultat d'apprentissage du cours                                |                                                                |
 |--|------------------------------------------------------------------|:---------------------------------------------------------------| 
 |No|L'etudiant(e) aura demontre, de facon fiable, sa capacite a:      |          Elements de performance                               | 
-| 1|L'installation d'un systeme d'exploitation                        |         Savoir .                                               | 
+| 1| installater un systeme d'exploitation                            | Savoir:                                                        | 
+|  |                                                                  | Savoir Faire:                                                  | 
+| 2| installater un systeme d'exploitation                            | Savoir:                                                        | 
 
 
 
