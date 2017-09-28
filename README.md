@@ -9,8 +9,10 @@ L'edutiant saura administrer une plateforme Unix
 
 ```
 
-| Resultat d'apprentissage du cours                                   |                                                                |
-|:--------------------------------------------------------------------|:---------------------------------------------------------------| 
+|  | Resultat d'apprentissage du cours                                |                                                                |
+|::|------------------------------------------------------------------|:---------------------------------------------------------------| 
+|No|L'etudiant(e) aura demontre, de facon fiable, sa capacite a:      |          Elements de performance                               | 
+| 1|L'installation d'un systeme d'exploitation                        |         Savoir .                                               | 
 
 
 
