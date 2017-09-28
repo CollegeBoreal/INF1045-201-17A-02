@@ -1,0 +1,3 @@
+total 1
+-rw-r--r-- 1 sowmdou 197121   0 Sep 26 11:25 ll.txt
+-rw-r--r-- 1 sowmdou 197121 306 Sep 26 11:25 myfirstvi.txt
