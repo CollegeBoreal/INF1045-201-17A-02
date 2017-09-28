@@ -3,13 +3,14 @@ Administration de serveurs
 
 ## Resultats d'Apprentissage du Cours
 
-
-|  | Resultat d'apprentissage du cours                                |                                                                |
-|--|------------------------------------------------------------------|:---------------------------------------------------------------| 
 |No|L'etudiant(e) aura demontre, de facon fiable, sa capacite a:      |          Elements de performance                               | 
+|--|------------------------------------------------------------------|:---------------------------------------------------------------| 
 | 1| installater un systeme d'exploitation                            | Savoir:                                                        | 
 |  |                                                                  | Savoir Faire:                                                  | 
-| 2| installater un systeme d'exploitation                            | Savoir:                                                        | 
+|  |                                                                  | Savoir Etre:                                                   | 
+| 2| Planifier les services                                           | Savoir:                                                        | 
+|  |                                                                  | Savoir Faire:                                                  | 
+|  |                                                                  | Savoir Etre:                                                   | 
 
 
 
