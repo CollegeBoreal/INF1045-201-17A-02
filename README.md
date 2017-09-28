@@ -4,7 +4,16 @@ Administration de serveurs
 ## Resultats d'Apprentissage du Cours
 ```
 L'edutiant saura administrer une plateforme Unix
+
+
+
 ```
+
+| Resultat d'apprentissage du cours                                   |                                                                |
+|:--------------------------------------------------------------------|:---------------------------------------------------------------| 
+
+
+
 ## Elements de Performance
 
 
