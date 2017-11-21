@@ -10,7 +10,7 @@ Creer un blog (i.e. Wordpress) permettant de decrire l'installation de:
 
 ## Creer un blog (i.e. wordpress.com)
 
-Le `blog` permettra de decrere toute la recherche effectuee pour installer Linux sur les machines Macs
+Le `blog` permettra de decrire toute la recherche effectuee pour installer Linux sur les machines Macs
 
 Astuces: 
 
