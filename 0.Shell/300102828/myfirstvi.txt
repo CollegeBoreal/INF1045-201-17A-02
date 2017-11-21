@@ -1,0 +1,6 @@
+canonical developper Adam Conrad has annonced the release of Unbutu 15.10
+"Wily werewolf". The latest release is the first to include a Lunix 4.2-based 
+kenel and gcc-5 compiler collection. According to the annoncement, the ubuntu 
+desk=top EDITION include "incremental improvement ",such as newer version
+
+(ily werewolf. The latest release is the first to include a Lunix 4.2-based )
