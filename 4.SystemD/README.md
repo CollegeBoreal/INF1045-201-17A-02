@@ -1,14 +1,5 @@
 # Linux Boot
 
-
-## GRUB (GRand Unified Bootloader)
-   https://doc.ubuntu-fr.org/grub-pc
-
-   Il s'exécute à la mise sous tension de l'ordinateur, après les séquences de contrôle interne et avant le système d'exploitation
-   
-   ![alt tag](https://github.com/CollegeBoreal/INF1045-16A/blob/master/1.Boot/Grub.png)
-
-
 ## systemd
 
 https://www.linux.com/learn/understanding-and-using-systemd
@@ -17,24 +8,8 @@ systemd est un système d’initialisation et un daemon qui a été spécifiquem
 
 ![alt tag](https://github.com/CollegeBoreal/INF1045-16A/blob/master/1.Boot/Systemd_components.svg.png)
 
-
-## Package Managers
-
-https://en.wikipedia.org/wiki/List_of_software_package_management_systems
-
-![alt tag](./package-management-300x257.png)
-
-*  [Debian Package](https://doc.ubuntu-fr.org/dpkg)
-
-
 # Reference:
-
-### Training
-https://training.linuxfoundation.org/linux-courses/system-administration-training/linux-system-administration
 
 ### SysVinit to Systemd
 https://fedoraproject.org/wiki/SysVinit_to_Systemd_Cheatsheet
-
-### virbr0
-http://www.cyberciti.biz/faq/linux-kvm-disable-virbr0-nat-interface/
 
