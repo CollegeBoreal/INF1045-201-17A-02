@@ -11,7 +11,7 @@ Le projet consiste à écrire un blog réalisant les aspects suivants du cours:
 
 ## Prérequis - Openstack 
 * Installer un serveur Linux - Ubuntu 17.04 (Zesty Zapus) http://releases.ubuntu.com/17.04/ 
-* Créer un nuage en mode développement (devstack - Newton)
+* Créer un nuage en mode développement (devstack)
 
 ## Configurer un nuage - Openstack [Noté] 
 1) Créer un projet (Tenant) avec utilisateurs (au moins un)  
@@ -32,3 +32,9 @@ L'état de la progression doit etre fournie sur le blog choisi.
 Des pénalités peuvent être encourues si le blog ne progresse pas. (25% par semaines)
 Le blog doit être présenté au 1er decembre.
 ```
+
+
+## References:
+
+Openstack Devstack
+https://docs.openstack.org/devstack/latest/guides/single-machine.html
