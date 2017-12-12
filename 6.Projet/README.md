@@ -10,7 +10,7 @@ Le projet consiste à écrire un blog réalisant les aspects suivants du cours:
 * Le choix de la langue est au choix de l'étudiant
 
 ## Prérequis - Openstack 
-* Installer un serveur Linux - Ubuntu 17.04 (Zesty Zapus)(http://releases.ubuntu.com/17.04/) 
+* Installer un serveur Linux - Ubuntu 17.04 (Zesty Zapus) http://releases.ubuntu.com/17.04/ 
 * Créer un nuage en mode développement (devstack - Newton)
 
 ## Configurer un nuage - Openstack [Noté] 
