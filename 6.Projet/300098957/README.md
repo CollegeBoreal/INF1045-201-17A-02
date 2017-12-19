@@ -24,3 +24,13 @@ $ echo "stack ALL=(ALL) NOPASSWD: ALL" | sudo tee /etc/sudoers.d/stack
 $ sudo su - stack
 ```
 
+* Download DevStack
+
+We’ll grab the latest version of DevStack via https:
+
+```
+$ sudo apt-get install git -y || sudo yum install -y git
+$ git clone https://git.openstack.org/openstack-dev/devstack
+$ cd devstack
+```
+
