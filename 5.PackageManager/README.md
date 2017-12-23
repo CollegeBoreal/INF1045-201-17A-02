@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/List_of_software_package_management_systems
 
 *  [Debian Package](https://doc.ubuntu-fr.org/dpkg)
 
-* Mettre a jour les `packages`
+## Mettre a jour les `packages`
 
 ```
 $ sudo apt-get -y update
