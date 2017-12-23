@@ -2,7 +2,7 @@
 
 ## Labo
 
-[Labo](.LABO.md)
+[Labo](./LABO.md)
 
 ## Example
 
