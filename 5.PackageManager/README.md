@@ -20,6 +20,3 @@ $ sudo apt-get -y upgrade
 
 [Linux Fondation Outline](./LinuxFondationOutline.md)
 
-### virbr0
-http://www.cyberciti.biz/faq/linux-kvm-disable-virbr0-nat-interface/
-
