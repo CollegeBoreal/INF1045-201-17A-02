@@ -3,7 +3,7 @@
 Table of Contents
 -----------------
 
-  * [0.KVM](#0.KVM)
+  * [0.KVM](#0kvm)
     * [Idea](#idea)
     * [Features](#features)
   * [Installation](#installation)
