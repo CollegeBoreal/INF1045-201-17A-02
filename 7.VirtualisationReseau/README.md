@@ -4,11 +4,7 @@ Table of Contents
 -----------------
 
   * [0.KVM](#0kvm)
-    * [Idea](#idea)
-    * [Features](#features)
-  * [Installation](#installation)
-  * [Uninstallation](#uninstallation)
-  * [Available plugins](#available-plugins)
+  * [1.Bridging](#1bridging)
 
 * Quick overview
 
