@@ -4,9 +4,13 @@
 
 ## [0.KVM](./0.KVM)
 
+* Modify the kernel to allow the routing of traffic between interfaces
+
 ![alt tag](./0.KVM/ROUTE.png)
 
 ### [1.Bridging](./1.Bridging)
+
+* Setting up bridges critical to the operation of OpenStack networking
 
 ![alt tag](./1.Bridging/ISP.png)
 
