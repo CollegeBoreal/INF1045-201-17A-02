@@ -6,6 +6,8 @@ Table of Contents
   * [0.KVM](#0kvm)
   * [1.Bridging](#1bridging)
   * [2.OpenVswitch](#2openvswitch)
+  * [3.NetNS](#3netns)
+  * [4.p2p](#4p2p)
 
 
 ### Quick overview
