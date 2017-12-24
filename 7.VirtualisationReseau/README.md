@@ -18,10 +18,14 @@
 
 ### [2.OpenVswitch](./2.Open-vSwitch)
 
+* What virtual switch is used in OpenSTack?
+
 ![alt tag](./2.Open-vSwitch/OVS.png)
 
 
 ### [3.NetNS](./3.NetNS)
+
+* How to use NameSpaces to create separate tenant environments ?
 
 ![alt tag](./3.NetNS/namespace_level2.png)
 
