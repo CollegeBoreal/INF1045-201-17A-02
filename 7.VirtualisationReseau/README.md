@@ -3,11 +3,11 @@
 Table of Contents
 -----------------
 
-  * [0.KVM](#0kvm) - Enabling Kernel Base Virtual Machine Routing
+  * [0.KVM](#0kvm) - Enabling `Kernel-Based Virtual Machine` Routing
   * [1.Bridging](#1bridging) - Routing with Bridges
   * [2.OpenVswitch](#2openvswitch) - Enabling Switching
-  * [3.NetNS](#3netns) - 
-  * [4.p2p](#4p2p)
+  * [3.NetNS](#3netns) - Enabling User Network with Name Spaces
+  * [4.p2p](#4p2p) - Connecting to the outside world a la P2P
 
 
 ### Quick overview
