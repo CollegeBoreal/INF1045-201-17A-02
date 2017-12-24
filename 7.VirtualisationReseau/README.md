@@ -1,3 +1,18 @@
+## Solution pour sortir Openstack de la machine devstack:
+
+### Ouvrir le noyau
+
+### Ouvrir le firewall
+```
+$ sudo iptables -t nat -A POSTROUTING -s 10.13.237.48/28 -j MASQUERADE
+```
+
+### Ouvrir le chemin
+```
+$ sudo iptables -t nat -A POSTROUTING -s 10.13.237.80/28 -j MASQUERADE
+```
+
+
 ## Neutron 
 
 * Quick overview
@@ -28,6 +43,8 @@
 * How to use NameSpaces to create separate tenant environments ?
 
 ![alt tag](./3.NetNS/namespace_level2.png)
+
+### [4.p2p](./4.p2p)
 
 # References:
 
