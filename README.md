@@ -43,5 +43,5 @@ Administration de serveurs - Automne 2017
 
 Visiter:
 
-
+https://thenewstack.io/tencent-serving-billion-users-openstack/
 
